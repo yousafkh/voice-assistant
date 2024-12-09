@@ -1,0 +1,7 @@
+/docker-envs
+/venv
+/venv38
+/models
+/downloads
+*.lock
+token
